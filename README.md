@@ -13,7 +13,7 @@ I'm working toward becoming a Robotics Engineer .
 
   ### GitHub Stats
 
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=micheal12mandal&show_icons=true&theme=radical)
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukesh12mandal&show_icons=true&theme=radical)
 
 
 ----
