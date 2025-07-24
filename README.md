@@ -14,6 +14,16 @@ I'm working toward becoming a Robotics Engineer .
   ### GitHub Stats
 
 ![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukesh12mandal&show_icons=true&theme=radical)
+---
+
+### 🚀 Projects
+
+#### 🔐 Smart Pendrive Assistant
+An automated USB pendrive with GUI + voice interaction. Launches on insertion, asks for file type and drive, and copies files quickly.
+- 🔧 Built with: Python, pyttsx3, Tkinter, autorun.bat
+- 🗣️ Features GUI + voice assistant
+- 📂 File type selector + auto-copy
+- 🔗 [View on GitHub](https://github.com/Mukesh12mandal/Smart-Pendrive-Assistant)
 
 
 ----
