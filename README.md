@@ -18,6 +18,10 @@ I build aerial platforms, robotics manipulators, and physical computing systems 
 
 ### Flagship Hardware & Robotics Projects
 
+| AZRAEL.V1.0 Flight Controller | ORION 6-DOF Robotic Arm |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/Mukesh12mandal/AZRAEL/main/images/Final_pcb.jfif" width="280"/> | <img src="https://raw.githubusercontent.com/Mukesh12mandal/ORION/main/images/arm.jfif" width="280"/> |
+
 #### [AZRAEL.V1.0 — Embedded STM32 Flight Controller](https://github.com/Mukesh12mandal/AZRAEL)
 An embedded flight control system engineered from scratch for the **STM32F103C8T6 (ARM Cortex-M3)** on a custom PCB.
 - **Deterministic Scheduling:** Implemented a real-time **400 Hz (2500 µs)** core loop for sensor sampling and motor updates.
